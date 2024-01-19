@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bug Secure IT</title>
+    <link>https://bugsecureit.com/posts/</link>
+    <description>Recent content in Posts on Bug Secure IT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Bug Secure IT</copyright>
+    <lastBuildDate>Sat, 13 Jan 2024 17:42:17 +0700</lastBuildDate>
+    <atom:link href="https://bugsecureit.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security Introduction</title>
+      <link>https://bugsecureit.com/posts/my-first-post/</link>
+      <pubDate>Sat, 13 Jan 2024 17:42:17 +0700</pubDate>
+      <guid>https://bugsecureit.com/posts/my-first-post/</guid>
+      <description>**## Introduction ** **This is bold text, and this is emphasized text. ** **Visit the Hugo&#xD;website!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+# SEO keywords and description for your site.
+keywords = "Cybersecurity,Information Security,Network Security,Data Breach,Encryption,Firewall,Malware,Ransomware,Phishing,Spear Phishing,SQL Injection,DDoS Attack,APT (Advanced Persistent Threat),Zero Day Exploit,Penetration Testing,Vulnerability Assessment,Incident Response,Security Audit,Biometrics,Two-Factor Authentication,VPN (Virtual Private Network),SSL (Secure Sockets Layer),Cyber Attack,Botnet,Brute Force Attack,Trojan Horse,Spyware,Keylogger,Rootkit,Man-in-the-Middle Attack,Antivirus Software,Endpoint Security,IDS (Intrusion Detection System),IPS (Intrusion Prevention System),SOC (Security Operations Center),Cyber Threat Intelligence,Ethical Hacking,GDPR (General Data Protection Regulation),PCI DSS (Payment Card Industry Data Security Standard),HIPAA (Health Insurance Portability and Accountability Act),Risk Management,Compliance,Cybersecurity Framework,Cloud Security,IoT Security (Internet of Things),Mobile Security,Dark Web,Cyber Espionage,Cyber Warfare,Cybercrime,Hacktivism,White Hat Hacker,Black Hat Hacker,Grey Hat Hacker,Security Patch,Backdoor,Digital Forensics,Cybersecurity Policy,Data Privacy,Identity Theft,Multi-Factor Authentication,Cybersecurity Training,Social Engineering,Threat Hunting,Cybersecurity Insurance,Blockchain Security,Cryptocurrency Security,Password Manager,Data Loss Prevention,Security Information and Event Management (SIEM),Cybersecurity Consulting,Bug Bounty Program,Secure Coding,Sandboxing,Security Token,Certificate Authority,Cybersecurity Regulations,Malvertising,Cybersecurity Audit,Secure Shell (SSH),Cyber Resilience,Security Breach Notification,Cybersecurity Strategy,Quantum Cryptography,Cybersecurity Trends,Honeypot,Cybersecurity Metrics,Cyber Risk Assessment,Cybersecurity Budget,Cybersecurity Best Practices,Security Operations,Cybersecurity Threats,Cybersecurity Solutions,Application Security,Website Security,Cybersecurity Law,Threat Intelligence Platform,Cybersecurity Incident,Data Encryption Standard,Cybersecurity Challenges"
+subtitle = "Cybersecurity blogs, Sharing About Secure IT Things."
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "posts"
+
+# Show table of contents at the top of your posts (defaults to false)
+# Alternatively, add this param to post front matter for specific posts
+toc = true
+
+showReadingTime = true
+
+[header]
+  logo = "https://i.postimg.cc/3rXtT0Mr/Compress-JPEG-online-512x512-image.png"
+  sticky = true
+
+[footer]
+  since = 2024
+  poweredby = true
+
+
+# giscus is comments system powered by GitHub Discussions
+# generate configurations from https://giscus.app/
+[giscus]
+  enabled = true
+  repo = "tomowang/hugo-theme-tailwind"
+  repoID = "R_kgDOKjVJHA"
+  category = "Announcements"
+  categoryID = "DIC_kwDOKjVJHM4CafqS"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  lang = "en"
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'Facebook'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/bugsecureit'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Twitter'
+    icon = 'brand-x'
+    link = 'https://twitter.com/bugsecureit'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/bugsecureit'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/company/bugsecureit'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/tomowang'
