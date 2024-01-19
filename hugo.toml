@@ -1,0 +1,7 @@
+baseURL = "https://bugsecureit.com/"
+title = "Bug Secure IT"
+author = "Muhammad Wildan Fahrezi"
+copyright = "Bug Secure IT"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
