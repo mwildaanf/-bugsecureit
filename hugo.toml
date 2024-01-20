@@ -5,3 +5,5 @@ copyright = "Bug Secure IT"
 paginate = 10
 languageCode = "en"
 theme = "tailwind"
+[server]
+force_home_page = false
